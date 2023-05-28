@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ABDULLAH's Small Website</title>
+</head>
+<body>
+  <!-- Home Page -->
+  <div id="home">
+    <h1>Welcome to ABDULLAH's Small Website!</h1>
+    <p>This website aims to provide useful information and resources on various topics.</p>
+    <img src="Abdullah" alt="Website Logo">
+    <p>Explore our content to find what you're looking for!</p>
+    <a href="about.html">About Us</a>
+  </div>
+
+  <!-- About Us Page -->
+  <div id="about">
+    <h1>About Us</h1>
+    <p>Here is my project, sir.</p>
+    <p>At ABDULLAH's Small Website, my goal is to share valuable content and resources with visitors.</p>
+    <p>I believe in providing accurate information, practical tips, and engaging articles on a wide range of topics.</p>
+    <p>Thank you for visiting my website. I hope you find it helpful and enjoyable!</p>
+  </div>
+</body>
+</html>
+
+
+
+
+
+
